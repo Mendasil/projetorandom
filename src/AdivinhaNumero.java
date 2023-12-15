@@ -8,7 +8,7 @@ public class AdivinhaNumero {
                 Olá! Seja bem-vindo e/ou bem-vinda!
                 *********************************""");
         byte opcao = 1;
-        byte opcao2 = 1;
+        
 
         while(opcao==1) {
             Scanner digitaNum = new Scanner(System.in);
