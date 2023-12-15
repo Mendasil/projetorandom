@@ -10,6 +10,7 @@ public class AdivinhaNumero {
         byte opcao = 1;
         byte opcao2 = 1;
         byte opcao3 = 1;
+        byte opcao4 = 1;
         while(opcao==1) {
             Scanner digitaNum = new Scanner(System.in);
             int numAleatorio = (int)(201*Math.random());
