@@ -9,7 +9,6 @@ public class AdivinhaNumero {
                 *********************************""");
         byte opcao = 1;
         byte opcao2 = 1;
-        byte opcao3 = 1;
         byte opcao4 = 1;
         byte opcao5 = 1;
         while(opcao==1) {
