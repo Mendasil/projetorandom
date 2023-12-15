@@ -31,6 +31,5 @@ public class AdivinhaNumero {
             }
         }
         System.out.println("Até mais!");
-        System.out.println("Até mais!");
     }
 }
