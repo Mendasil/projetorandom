@@ -32,5 +32,6 @@ public class AdivinhaNumero {
             }
         }
         System.out.println("JÁ CHEGA!");
+        System.out.println("JÁ CHEGA!");
     }
 }
