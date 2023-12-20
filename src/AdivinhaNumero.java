@@ -31,6 +31,6 @@ public class AdivinhaNumero {
                 opcao = digitaNum.nextByte();
             }
         }
-        System.out.println("Até mais!");
+        System.out.println("JÁ CHEGA!");
     }
 }
